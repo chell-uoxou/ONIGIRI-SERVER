@@ -1,0 +1,86 @@
+/******************************************************************************************************
+ *                                              STRIPE DATA STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+ 
+ #vbid-73d0c-hpag5spr.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 1343px;
+} 
+ #vbid-73d0c-hpag5spr.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-73d0c-ttkbr4rv.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 285px;
+}
+ 
+ #vbid-73d0c-1ejjdubt.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 417px;
+} 
+ #vbid-73d0c-1ejjdubt.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-73d0c-wlytiiny.master.item-box    {
+	padding-top: 70px;
+	padding-bottom: 70px;
+	min-height: 1343px;
+} 
+ #vbid-73d0c-wlytiiny.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-73d0c-bb1dp5lb.master.item-box    {
+	min-height: 384px;
+}
+ 
+ #vbid-73d0c-ongx4ar1.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 320px;
+}
+ 
+ #vbid-73d0c-i32vjrwp.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 530px;
+}
+ 
+ #vbid-73d0c-rjpfhebo.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 360px;
+}
+ 
+ #vbid-73d0c-4y0mbbfk.master.item-box    {
+	padding-top: 50px;
+	padding-bottom: 50px;
+} 
+ #vbid-73d0c-4y0mbbfk.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-73d0c-r8gedhhs.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 70px;
+	min-height: 1343px;
+} 
+ #vbid-73d0c-r8gedhhs.item-box > .item-wrapper    {
+	max-width: 1832px;
+}
+ 
+ #vbid-73d0c-y0oujync.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 426px;
+} 
+ #vbid-73d0c-y0oujync.item-box > .item-wrapper    {
+	max-width: 1000px;
+}

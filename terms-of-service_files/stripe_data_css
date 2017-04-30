@@ -1,0 +1,112 @@
+/******************************************************************************************************
+ *                                              STRIPE DATA STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+ 
+ #vbid-73d0c-mivuvfbe.master.item-box    {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 114px;
+} 
+ #vbid-73d0c-mivuvfbe.item-box > .item-wrapper    {
+	max-width: 1270px;
+}
+ 
+ #vbid-73d0c-wymua74s.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 675px;
+}
+ 
+ #vbid-73d0c-h77z4oxt.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 40px;
+} 
+ #vbid-73d0c-h77z4oxt.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-73d0c-7txxoxuy.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 417px;
+}
+ 
+ #vbid-73d0c-z4s7r6xo.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 429px;
+}
+ 
+ #vbid-73d0c-n4hjdbiw.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-73d0c-enevolds.master.item-box    {
+	padding-top: 70px;
+	padding-bottom: 70px;
+} 
+ #vbid-73d0c-enevolds.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-73d0c-qpeaeag7.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 449px;
+}
+ 
+ #vbid-73d0c-5k3atvmh.master.item-box    {
+	padding-top: 0px;
+	min-height: 579px;
+}
+ 
+ #vbid-73d0c-xbxuxqjs.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 468px;
+}
+ 
+ #vbid-73d0c-phiiwo9a.master.item-box    {
+	padding-top: 0px;
+	min-height: 579px;
+}
+ 
+ #vbid-73d0c-wpnzz9jg.master.item-box    {
+	padding-top: 60px;
+	padding-bottom: 60px;
+} 
+ #vbid-73d0c-wpnzz9jg.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-73d0c-6whev7xb.master.item-box    {
+	padding-top: 70px;
+	padding-bottom: 80px;
+} 
+ #vbid-73d0c-6whev7xb.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-73d0c-qopilsai.master.item-box    {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 114px;
+} 
+ #vbid-73d0c-qopilsai.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-73d0c-wbt4abvs.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 607px;
+}
+ 
+ #vbid-73d0c-ezsbaw2b.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 817px;
+}

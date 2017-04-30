@@ -1,0 +1,115 @@
+/******************************************************************************************************
+ *                                              STRIPE DATA STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+ 
+ #vbid-73d0c-pev5atbh.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 468px;
+}
+ 
+ #vbid-73d0c-4x47s3xx.master.item-box    {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 114px;
+} 
+ #vbid-73d0c-4x47s3xx.item-box > .item-wrapper    {
+	max-width: 1270px;
+}
+ 
+ #vbid-73d0c-sapf55bj.master.item-box    {
+	padding-top: 0px;
+	min-height: 579px;
+}
+ 
+ #vbid-73d0c-4trm3tff.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 817px;
+}
+ 
+ #vbid-73d0c-7yzhgjod.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 317px;
+}
+ 
+ #vbid-73d0c-4skb0op5.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 429px;
+}
+ 
+ #vbid-73d0c-akedrztr.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 417px;
+}
+ 
+ #vbid-73d0c-nrombasn.master.item-box    {
+	padding-top: 70px;
+	padding-bottom: 80px;
+} 
+ #vbid-73d0c-nrombasn.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-73d0c-uebnjfqj.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-73d0c-mtyygp3k.master.item-box    {
+	padding-top: 0px;
+	min-height: 579px;
+}
+ 
+ #vbid-73d0c-xgotp38t.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 607px;
+}
+ 
+ #vbid-73d0c-be4qqsuy.master.item-box    {
+	padding-top: 60px;
+	padding-bottom: 60px;
+} 
+ #vbid-73d0c-be4qqsuy.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-73d0c-tvkq9doo.master.item-box    {
+	padding-top: 70px;
+	padding-bottom: 70px;
+} 
+ #vbid-73d0c-tvkq9doo.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-73d0c-02yg7dra.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 449px;
+}
+ 
+ #vbid-73d0c-ga51mrwo.master.item-box    {
+	min-height: 94px;
+}
+ 
+ #vbid-73d0c-jgfkwioi.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 40px;
+} 
+ #vbid-73d0c-jgfkwioi.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-73d0c-jsqma0ad.master.item-box    {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 114px;
+} 
+ #vbid-73d0c-jsqma0ad.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
